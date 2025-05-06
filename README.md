@@ -1,4 +1,4 @@
-# Hello! My name is Maxim. 👋
+# Hello! My name is Maksim. 👋
 
 I am a novice Java developer who enthusiastically plunges into the world of backend development. 
 My journey to Java began in **2023**, and since then I have been actively exploring the technologies and tools needed to create modern and reliable applications.
